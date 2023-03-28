@@ -1,0 +1,22 @@
+.exito {
+    background-color: green;
+    width: 40%;
+}
+
+.error{
+    background-color: red;
+    width: 40%;
+}
+
+li{
+    padding: 5px;
+    padding-left: 10px;
+    cursor: pointer;
+   
+}
+
+li:hover{
+    background-color: black;
+    color: white;
+}
+
